@@ -10,6 +10,6 @@
 
  - 💬 Ask me about: HTML, CSS, JS, C, PYTHON
 
- - 📫 Reach me
- Twitter: https://x.com/AnithaGoudo7
+ - 📫 Reach me  goudoanitha79@gmail.com
+      
   
