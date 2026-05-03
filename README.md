@@ -13,7 +13,10 @@
 -    📫 Reach me: goudoanitha79@gmail.com  
 
 ### 🔗 Connect with me:
-- Twitter: https://x.com/AnithaGoudo7  
-      
+<p align="left">
+  <a href="https://x.com/AnithaGoudo7" target="_blank">
+    <img src="C:\Users\Administrator\OneDrive\Pictures"/>
+  </a>
+</p>
 
 
