@@ -1,8 +1,8 @@
-                                     # Hi 👋, I'm Anitha Goudo  
+# Hi 👋, I'm Anitha Goudo  
                                
-                            - A passionate Full-Stack developer from India
+                        A passionate Full-Stack developer from India
                              
- - 🌐 Frontend Developer from India
+ - 🔭 I’m currently working as a Student 
    
  - 🌱 I’m currently learning Full Stack
 
@@ -12,4 +12,4 @@
 
  - 📫 Reach me  goudoanitha79@gmail.com
       
-  
+Connect with me:  
