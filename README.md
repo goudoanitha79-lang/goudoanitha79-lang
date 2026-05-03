@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Anitha Goudo</h1>
 
-### <p align="center">Frontend Developer from India</p>
+### <p align="center">A passionate Frontend Developer from India</p>
                              
  - 🔭 I’m currently working as a Student in Computer Science
    
