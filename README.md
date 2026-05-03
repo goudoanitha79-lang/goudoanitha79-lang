@@ -2,15 +2,15 @@
 
    ### <p align="center">A passionate Frontend Developer from India</p>
                              
-🔭 Building real-world web projects using HTML, CSS, JavaScript  
+-   🔭 Building real-world web projects using HTML, CSS, JavaScript  
 
-🌱 Currently learning advanced JavaScript and backend basics  
+-   🌱 Currently learning advanced JavaScript and backend basics  
 
-👯 Open to collaborating on frontend projects  
+-   👯 Open to collaborating on frontend projects  
 
-💬 Ask me about: HTML, CSS, JavaScript  
+-   💬 Ask me about: HTML, CSS, JavaScript  
 
-📫 Reach me: goudoanitha79@gmail.com  
+-   📫 Reach me: goudoanitha79@gmail.com  
 
 ### 🔗 Connect with me:
 - Twitter: https://x.com/AnithaGoudo7  
