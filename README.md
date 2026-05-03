@@ -1,8 +1,8 @@
 # Hi 👋, I'm Anitha Goudo  
                                
-                        * A passionate Full-Stack developer from India *
+                         * A passionate Full-Stack developer from India*
                              
- - 🔭 I’m currently working as a Student 
+ - 🔭 I’m currently working as a Student in Computer Science
    
  - 🌱 I’m currently learning Full Stack
 
