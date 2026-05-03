@@ -1,16 +1,15 @@
-#                                            Hi 👋, I'm Anitha Goudo  
+                                     # Hi 👋, I'm Anitha Goudo  
                                
-                                       A passionate Full-Stack developer from India
- - 🌐 Frontend Developer from India  
- - 🚀 Building real-world projects using HTML, CSS, JavaScript  
- - 🎬 Video Editor & Content Creator  
+                            - A passionate Full-Stack developer from India
+                             
+ - 🌐 Frontend Developer from India
+   
+ - 🌱 I’m currently learning Full Stack
 
-🛠️ Ask me about
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+ - 👯 I’m looking to collaborate with Full-Stack Developers
 
-## 📫 Connect with me
-- Twitter: https://x.com/AnithaGoudo7
-- 
+ - 💬 Ask me about: HTML, CSS, JS, C, PYTHON
+
+ - 📫 Reach me
+ Twitter: https://x.com/AnithaGoudo7
+  
