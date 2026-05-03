@@ -20,7 +20,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
 </p>
-<br><br>
+<br>
 
 <p align="left">
   <a href="https://x.com/AnithaGoudo7" target="_blank">
