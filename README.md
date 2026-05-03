@@ -2,15 +2,18 @@
 
    ### <p align="center">A passionate Frontend Developer from India</p>
                              
- - 🔭 I’m currently working as a Student in Computer Science
-   
- - 🌱 I’m currently learning Full Stack
+🔭 Building real-world web projects using HTML, CSS, JavaScript  
 
- - 👯 I’m looking to collaborate with Full-Stack Developers
+🌱 Currently learning advanced JavaScript and backend basics  
 
- - 💬 Ask me about: HTML, CSS, JS, C, java
+👯 Open to collaborating on frontend projects  
 
- - 📫 Reach me  goudoanitha79@gmail.com
+💬 Ask me about: HTML, CSS, JavaScript  
+
+📫 Reach me: goudoanitha79@gmail.com  
+
+### 🔗 Connect with me:
+- Twitter: https://x.com/AnithaGoudo7  
       
-### Connect with me:  
+
 
