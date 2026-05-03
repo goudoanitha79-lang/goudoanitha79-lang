@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Anitha Goudo  
 
-<!--
-**goudoanitha79-lang/goudoanitha79-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Frontend Developer from India  
 
-Here are some ideas to get you started:
+🚀 Building real-world projects using HTML, CSS, JavaScript  
+🎬 Video Editor & Content Creator  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ask me about
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+
+## 📫 Connect with me
+- Twitter: https://x.com/AnithaGoudo7  
