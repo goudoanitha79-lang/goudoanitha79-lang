@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anitha Goudo  
+#                                            Hi 👋, I'm Anitha Goudo  
 
 .  🌐 Frontend Developer from India  
 .  🚀 Building real-world projects using HTML, CSS, JavaScript  
