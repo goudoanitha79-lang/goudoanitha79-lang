@@ -10,9 +10,8 @@
 
 -    💬 Ask me about: HTML, CSS, JavaScript  
 
--    📫 Reach me: goudoanitha79@gmail.com  
-
-### 🔗 Connect with me:
+-    📫 Reach me: goudoanitha79@gmail.com
+  ### Connect with me:
 <p align="center">
 <p align="left">
   <a href="https://www.linkedin.com/in/anitha-goudo-18b131336" target="_blank">
