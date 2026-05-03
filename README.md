@@ -8,8 +8,8 @@
 
  - 👯 I’m looking to collaborate with Full-Stack Developers
 
- - 💬 Ask me about: HTML, CSS, JS, C, PYTHON
+ - 💬 Ask me about: HTML, CSS, JS, C, java
 
  - 📫 Reach me  goudoanitha79@gmail.com
       
-Connect with me:  
+# Connect with me:  
