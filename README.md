@@ -13,7 +13,6 @@
 -    📫 Reach me: goudoanitha79@gmail.com  
 
 ### 🔗 Connect with me:
-<br>
 <p align="center">
 <p align="left">
   <a href="https://www.linkedin.com/in/anitha-goudo-18b131336" target="_blank">
@@ -21,7 +20,6 @@
   </a>
 </p>
 <br>
-
 <p align="left">
   <a href="https://x.com/AnithaGoudo7" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30"/>
