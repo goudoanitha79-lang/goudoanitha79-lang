@@ -8,7 +8,7 @@
 
 -    👯 Open to collaborating on frontend projects  
 
--    💬 Ask me about: HTML, CSS, JavaScript  
+-    💬 Ask me about: HTML, CSS, JavaScript ,DSA , Servicenow, java 
 
 -    📫 Reach me: goudoanitha79@gmail.com
   ### Connect with me:
